@@ -1,5 +1,9 @@
 # TVRa1n
 
+<p align="center">
+  <img src="icon.png" width="180" alt="TVRa1n icon">
+</p>
+
 A native macOS app that automates the full tethered jailbreak chain for the
 **Apple TV 4K (2nd generation)** — `AppleTV11,1`, A12 / T8020 — on tvOS 26.6.
 
